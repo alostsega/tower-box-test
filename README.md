@@ -6,7 +6,7 @@
 [![Example](https://fs.chomchob.com/file/image?path=/admin/upload/2020-02-22/f3f60c2a-2e83-455e-94a5-b6633e770754)](https://youtu.be/K1YCsV2IcHE "TBT Example")
 
 ## **Requirement เกม Tower Box**
-* Application จะต้อง Random กล่องจำนวน 19 กล่องออกมา โดยประกอบไปด้วย กล่องสีชมพู และสีฟ้า (ใช้สีอื่นได้ถ้าต้องการ)
+* Application จะต้อง Random กล่องจำนวน 9 กล่องออกมา โดยประกอบไปด้วย กล่องสีชมพู และสีฟ้า (ใช้สีอื่นได้ถ้าต้องการ)
 * กล่องที่ 20 จะเป็นกล่องลักษณะพิเศษ ลายข้าวหลามตัด
 * การทำลายกล่อง 
   * จะต้องกดปุ่มด้านล่างให้ตรงกับสีของกล่องค้างไว้เป็นเวลา 2 วินาที กล่องถึงจะถูกทำลาย
@@ -21,9 +21,9 @@
 * กล่องจะมีความกว้าง 30% ของพื้นที่สีเทา และอยู่ center horizon เสมอ
 * Application จะต้องรองรับรูปแบบการแสดงผลทั้งแนวนอน และแนวตั้ง
 
-## **Bonus Requirement**
-* เขียน Application ด้วย Pattern - **Passive MVP**
-* ทำให้ Application สวยงาม
+## **Challenge Requirement**
+* เขียน Application ด้วย Pattern - **MVP** (Optional)
+* ทำให้ Application สวยงามกว่านี้
 
 ## **การส่งงานให้ Upload Project ขึ้น Github**
 
